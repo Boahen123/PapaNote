@@ -1,0 +1,1 @@
+self._set_appearance_mode('light')

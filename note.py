@@ -14,8 +14,7 @@ class App(customtkinter.CTk):
     def __init__(self):
         super().__init__()
         self._set_appearance_mode('dark')
-        self.save = functions.Functions()
-
+        
         # title of the main window
         self.title('PapaNote')
 
